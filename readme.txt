@@ -7,3 +7,4 @@ create new branch branch1
 =======
 create new branch branch1
 >>>>>>> branch1
+add merge
